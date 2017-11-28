@@ -1,2 +1,3 @@
 # UnitConverter
-Program do konwersji jednostek np. wagi, obszaru, długości. 
+Program do konwersji jednostek np. wagi, obszaru, długości.
+[] drobna zmiana
